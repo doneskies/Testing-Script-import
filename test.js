@@ -1,4 +1,4 @@
-const delphiContainer = document.getElementById('page');
+const delphiContainer = document.getElementById('block-2879751447d84483b8999fc83e463e6c');
 
 const foundation = `
 <div class="Delphi-Terminal">
